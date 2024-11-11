@@ -1,6 +1,7 @@
 ## Hello GitHub 👋
 
 ---
+<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/e9255400-6c5b-4811-bdbe-fc7ec5a5da43" />
 
 ### I'm Joel Sasig
 
