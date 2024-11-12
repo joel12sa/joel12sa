@@ -8,7 +8,7 @@
 Estudiante de Ingeniería en Computación y entusiasta del Código Abierto.
 - 🌱 Actualmente estudiando Ecuador.
 - 💬 Poniendo en practica C, React, Java con el framework Spring Boot, Python, y Angular.
-- ⭐ Puede que te interese explorar mis proyectos universitarios como ...
+- ⭐ Puede que te interese explorar mis proyectos universitarios ...
 - ⚡ Dato curioso: me encanta la parte de Back end 📊
 
 ### 🛠 Tech Stack
