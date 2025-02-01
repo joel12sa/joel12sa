@@ -1,7 +1,8 @@
 ## Hello GitHub 👋
 
 ---
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/e9255400-6c5b-4811-bdbe-fc7ec5a5da43" />
+<img align="right" alt="GIF" src=/![gato-unscreen](https://github.com/user-attachments/assets/2217e144-735c-496c-87d3-e4003942ce37)
+>
 
 ### I'm Joel Sasig
 
